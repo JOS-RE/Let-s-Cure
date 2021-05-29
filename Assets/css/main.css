@@ -50,10 +50,16 @@
 
 img {
     vertical-align: middle;
+    heght: 10rem;
 }
 
 
 /* Slideshow container */
+
+.contain-slides {
+    max-height: 1000px;
+    background-color: rgba(0, 0, 0, 0.05);
+}
 
 .slideshow-container {
     max-width: 1000px;
@@ -127,11 +133,11 @@ img {
 
 .dot {
     cursor: pointer;
-    height: 35px;
+    height: 15px;
     width: 35px;
     margin: 0 2px;
     background-color: rgb(5, 218, 255);
-    border-radius: 50%;
+    border-radius: 10%;
     display: inline-block;
     transition: background-color 0.6s ease;
 }
