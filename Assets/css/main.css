@@ -72,7 +72,7 @@ img {
     width: auto;
     padding: 16px;
     margin-top: -22px;
-    color: rgb(235, 63, 20);
+    color: rgb(8, 2, 0);
     background-color: rgba(255, 255, 255, 0.4);
     font-weight: bold;
     font-size: 18px;
@@ -94,6 +94,7 @@ img {
 
 .prev:hover,
 .next:hover {
+    color: rgb(243, 108, 108);
     background-color: rgba(0, 0, 0, 0.8);
 }
 
