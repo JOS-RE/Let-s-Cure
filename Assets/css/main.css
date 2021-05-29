@@ -25,9 +25,57 @@
 
 /***************************** COPING AREA BUTTON *****************************/
 
+#promo {
+    background: rgba(255, 255, 255, 0.05);
+    border: solid 1px rgba(255, 255, 255, 0.25);
+    border-radius: 0.5em;
+    padding: 1.5em 1.5em 1.5em 1.5em;
+    height: 9rem;
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+}
+
+.banner-button {
+    -moz-transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
+    -webkit-transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
+    -ms-transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
+    transition: color 0.25s ease-in-out, border-color 0.25s ease-in-out, background-color 0.25s ease-in-out;
+    display: inline-block;
+    color: inherit;
+    background: none;
+    text-decoration: none;
+    border: solid 1px #c2c7cc;
+    border-radius: 0.5em;
+    padding: 0.8em 1em 0.8em 1em;
+    cursor: pointer;
+    outline: 0;
+}
+
+banner-button:hover,
+.banner-button:hover {
+    color: #f35858;
+    border-color: rgba(243, 88, 88, 0.5);
+}
+
+#promo .banner-button {
+    background: #fff;
+    margin-left: 15px;
+    border-color: rgba(255, 255, 255, 0);
+    color: #27636B;
+    font-size: 1em;
+}
+
+#promo .banner-button:hover {
+    border-color: rgba(255, 255, 255, 0.75);
+    background-color: rgba(255, 255, 255, 0.15);
+    color: #fff;
+}
+
 #promo-wrapper {
     position: relative;
     background-image: url("/Assets/Images/2799651\ \(1\).jpg");
+    height: 18rem;
     background-position: top left, center center;
     color: #fff;
     text-align: center;
