@@ -23,6 +23,18 @@
 }
 
 
+/***************************** COPING AREA BUTTON *****************************/
+
+#promo-wrapper {
+    position: relative;
+    background-image: url("/Assets/Images/2799651\ \(1\).jpg");
+    background-position: top left, center center;
+    color: #fff;
+    text-align: center;
+    padding: 6em 0 6em 0;
+}
+
+
 /***************************** FOOTER AREA*****************************/
 
 footer {
