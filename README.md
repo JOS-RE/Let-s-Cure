@@ -1,4 +1,4 @@
-# Lets Cure
+# Lets Cure.
 
 Team : <strong>SMC T-5</strong>
 
