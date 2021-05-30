@@ -7,7 +7,7 @@ Team : <strong>SMC T-5</strong>
 3. Nandini Jain<br>
 4. Ruchita Das<br>
 
-#### The source code is available on the master branch
+#### The source code is available on the **Master branch**
 
 > ## Theme : _Mental state and awareness_
 
