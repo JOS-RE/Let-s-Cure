@@ -15,4 +15,4 @@ Team : <strong>SMC T-5</strong>
 **_'Lets Cure'_** is based on the ideals of good Mental Health.<br>
 We have brought together the information, various sources and tips that can help people understand the importance of mental health and take initiative in improving it through simple and easy means.
 
-## [Click Here](https://jos-re.github.io/Let-s-Cure/Source/) to view the web page.
+## [Click Here](https://jos-re.github.io/Let-s-Cure/Source/) to view the Project.
