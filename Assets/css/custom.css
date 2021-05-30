@@ -96,7 +96,6 @@ nav,
 section,
 article,
 aside,
-,
 figcaption {
     margin: 0;
     padding: 0;
@@ -1918,7 +1917,7 @@ footer .copyright {
 
 img {
     vertical-align: middle;
-    heght: 10rem;
+    height: auto;
 }
 
 
