@@ -1,4 +1,4 @@
-# Social Assist
+# Lets Cure
 
 Team : <strong>SMC T-5</strong>
 
